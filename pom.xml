@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.sgeonline</groupId>
 	<artifactId>api-sgeonline</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>sgeonline</version>
 	<packaging>war</packaging>
 	<name>api-sgeonline</name>
 	<description>Projeto sgeonline Spring Boot</description>
